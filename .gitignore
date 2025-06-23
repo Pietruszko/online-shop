@@ -8,3 +8,5 @@ __pycache__/
 media/
 # static
 static/
+# own file
+commands.txt
