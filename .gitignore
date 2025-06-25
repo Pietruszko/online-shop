@@ -10,3 +10,5 @@ media/
 static/
 # own file
 commands.txt
+# locale
+locale/
