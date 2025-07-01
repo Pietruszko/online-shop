@@ -13,6 +13,7 @@ click-repl==0.3.0
 cssselect2==0.8.0
 Django==5.2.3
 django-environ==0.12.0
+django-localflavor==5.0
 django-parler==2.3
 django-rosetta==0.10.2
 flower==2.0.1
@@ -30,6 +31,7 @@ pycparser==2.22
 pydyf==0.11.0
 pyphen==0.17.2
 python-dateutil==2.9.0.post0
+python-stdnum==2.1
 pytz==2025.2
 redis==6.2.0
 requests==2.32.4
